@@ -16,6 +16,6 @@
 ![Figure 3](fig3_latency_pareto.pdf)
 
 ## Figure 4
-**Fixed \(\gamma = 0.94\) versus tuned \(\gamma\) across five benchmarks.**
+**Fixed $\gamma = 0.94$ versus tuned $\gamma$ across five benchmarks.**
 
 ![Figure 4](fig4_fixed_gamma.pdf)
